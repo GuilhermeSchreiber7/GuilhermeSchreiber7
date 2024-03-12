@@ -27,7 +27,7 @@
   <img width="8" />
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
   <img width="8" />
-  <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" alt="BootStrap logo" />
+ 
 
 </div>
 <div align="center">
