@@ -23,7 +23,14 @@
   <img width="8" />
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
   <img width="8" />
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="40" alt="sass logo" /> 
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="40" alt="mysql logo" />
+  <img width="8" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="40" alt="tailwind css logo" /> 
+  <img width="8" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="40" alt="react logo" />
 
 </div>
 <div align="center">
