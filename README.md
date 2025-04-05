@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22A7F0&height=120&section=header"/>
+
 <h2 align="center" style="color: #e83d84;">Welcome! Most languages used</h2>
 
 
@@ -39,4 +39,3 @@
 <p><img src="https://profile-counter.glitch.me/{GuilhermeSchreiber7}/count.svg" /></p> 
 
 </div>
-<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22A7F0&height=120&section=footer"/>
