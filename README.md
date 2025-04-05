@@ -34,8 +34,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="40" alt="react logo" />
 </div>
 <div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19B5FE&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/GuilhermeSchreiber7)
-<p><img src="https://profile-counter.glitch.me/{GuilhermeSchreiber7}/count.svg" /></p> 
-
 </div>
