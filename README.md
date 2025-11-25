@@ -1,35 +1,45 @@
-
-<h2 align="center" style="color: #e83d84;"> Most languages used</h2>
-
-
 <div align="center">
-  <a href="https://github.com/GuilhermeSchreiber7&">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSchreiber7&bg_color=000&title_color=fff&text_color=8ef5fa" />
-</a>
-<a href="https://github.com/GuilhermeSchreiber7">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSchreiber7&layout=donut&bg_color=000&title_color=fff&text_color=8ef5fa&icon_color=2596be)](https://github.com/GuilhermeSchreiber7"/ >
-</a>
-<br>
-<br>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="45" height="40" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="40" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="45" height="40" alt="javascript logo"  />
-  <img width="8" />
-  <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="40" alt="sass logo" /> 
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="40" alt="mysql logo" />
-  <img width="8" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="40" alt="python logo" />
-  <img width="8" /> 
-   <img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind logo" height="40">
-  <img width="8" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="40" alt="react logo" />
+  <h2>
+    Linguagens & Tecnologias
+  </h2>
+  
+  <p>
+    <strong>Principais Tecnologias que Uso</strong><br>
+    <sub>Full Stack Development | Web Technologies | Python</sub>
+  </p>
 </div>
+
+---
+
 <div align="center">
+
+#### Linguagens de Programação
+<div/>
+<div align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+
+<div align="center">
+
+#### Frontend & Styling
+<div/>
+
+<div align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</div>
+
+<div align="center">
+  
+#### Backend & Ferramentas
+<div/>
+<div align="center">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
